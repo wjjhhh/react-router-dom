@@ -1,8 +1,8 @@
-import CustomLinkExample from './CustomLinkExample';
+import Component from './AuthExample2';
 import React from 'react';
 import ReactDOM from 'react-dom';
 
 ReactDOM.render(
-    <CustomLinkExample/>,
+    <Component/>,
     document.getElementById('app')
 )
